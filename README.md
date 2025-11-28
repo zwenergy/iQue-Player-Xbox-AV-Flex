@@ -32,3 +32,8 @@ The flex PCB edge with the white line should be aligned with the connector side 
 The PCB needs to be bend over to the other side after soldering one side.
 
 <img src="./assets/connector_wflex.png" alt="drawing" width="400"/>
+
+## Disclaimer
+**Use the files and/or schematics to build your own board at your own risk**.
+This board works fine for me, but it's a simple hobby project, so there is no liability for errors in the schematics and/or board files.
+**Use at your own risk**.
