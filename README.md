@@ -29,5 +29,6 @@ It also ties all GNDs together.
 ## Install
 Solder the flex PCB to the connector pins after trimming the connector.
 The flex PCB edge with the white line should be aligned with the connector side which has the metal clip left over.
+The PCB needs to be bend over to the other side after soldering one side.
 
 <img src="./assets/connector_wflex.png" alt="drawing" width="400"/>
